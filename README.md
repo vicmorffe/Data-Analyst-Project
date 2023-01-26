@@ -1,2 +1,2 @@
-# Data-Analyst-Project
+# Data-Analytics-Project
 Final project
